@@ -1,0 +1,6 @@
+INFO     test_email:test_email.py:11 testi@testi.ru
+INFO     test_email:test_email.py:11 wix@wix.com
+INFO     test_email:test_email.py:11 123QWE@mmm.mmm
+INFO     test_email:test_email.py:17 testi@testi.
+INFO     test_email:test_email.py:17 wix@
+INFO     test_email:test_email.py:17 @tt
