@@ -1,1 +1,2 @@
 print("qwe")
+print("asd")
